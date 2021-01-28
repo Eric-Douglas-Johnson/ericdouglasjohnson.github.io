@@ -402,7 +402,6 @@ a#logo {
 .welcome-first{
   font-size: 32px;
   display: block;
-  text-transform: uppercase;
   font-weight: 300;
   line-height: 1.2;
   letter-spacing: 0.02em;
