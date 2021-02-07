@@ -636,12 +636,14 @@ textarea.form-control {
 }
 .contact-section .btn {
   width:100%;
+  text-align:center;
 }
 .contact-box {
   text-align:center;
 }
 .contact-box h4 {
   font-size:24px;
+  text-align:center;
 }
 .contact-box h4:after {
   content:'';
@@ -665,6 +667,7 @@ textarea.form-control {
   border-radius: 10px;
   padding: 30px;
   font-weight: 700;
+  text-align:center;
 }
 .contact-row i {
   width:55px;
